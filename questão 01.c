@@ -9,7 +9,7 @@ scanf("%f", &A);
 printf("Valor de B:");
 scanf("%f", &B);
 
-printf("Valor de: C:");
+printf("Valor de C:");
 scanf("%f", &C);
 
 MEDIA = (A + B + C) / 3;
